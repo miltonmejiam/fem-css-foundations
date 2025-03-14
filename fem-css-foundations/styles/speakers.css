@@ -1,0 +1,9 @@
+@import "/styles/base.css";
+
+.shopping-cart-icon--primary g path {
+  fill: var(--color-primary);
+}
+
+.speakers .main__title {
+  font-size: 98px;
+}
